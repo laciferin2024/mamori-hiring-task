@@ -12,7 +12,7 @@ d) Core limitations
 e) Core advantage
 f) How to evaluate the effectiveness of the algorithms
 
-## reference
+## Reference
 
 [Post Mortem : KyberSwap Exploit Swap](https://blog.kyberswap.com/post-mortem-kyberswap-elastic-exploit/#:~:text=Overview%3A%20On%20November%2022%2C%202023,significant%20amount%20of%20assets%20of)
 [Defi Hacks Labs Code](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/2023-11/KyberSwap_exp.eth.1.sol)
