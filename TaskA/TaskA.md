@@ -29,4 +29,4 @@ f) How to evaluate the effectiveness of the algorithms
 
 5. Onchain data limitations : onchain privacy soln and ofchain components and offchain oracles hinder detection
 
-6. Sophisticated Attacks :
+6. Sophisticated Attacks : since exploits involve as series of tx of 1+ parties its hard to realize the collusion
