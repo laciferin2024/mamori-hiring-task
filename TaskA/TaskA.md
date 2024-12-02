@@ -25,4 +25,8 @@ f) How to evaluate the effectiveness of the algorithms
 
 3. Cross Protocol arbitrage: exploit price differences across multiple Protocols. Tracking is expensive due to data Enginering as there is no standard for data formats
 
-4.
+4. High Tx Vol: monitoring every tx in real time and analyzing it is very computationally & infra expensive.
+
+5. Onchain data limitations : onchain privacy soln and ofchain components and offchain oracles hinder detection
+
+6. Sophisticated Attacks :
